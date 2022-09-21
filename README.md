@@ -1,1 +1,1 @@
-# Multi_LR
+# Multiple-Linear_Regression
